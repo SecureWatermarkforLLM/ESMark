@@ -1,4 +1,4 @@
-# llm-watermarking
+# Secure llm-watermarking
 An Accurately Extracted and Secure Multi-bit Watermark for Large Language Models
 
 
