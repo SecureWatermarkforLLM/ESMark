@@ -1,6 +1,6 @@
 # Secure LLM-Watermark
 
-An Accurately Extracted and Secure Multi-bit Watermark for Large Language Models
+An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models
 
 
 ### Dataset
@@ -10,7 +10,7 @@ To be supplemented.
 
 ### Models
 
-The models, LLama2 / ChatGLM, will be automatically downloaded via huggingface transformers package when code is run. 
+The models, LLama2-7B-chat / ChatGLM3-6B, will be automatically downloaded via huggingface transformers package when the code is run. 
 
 
 
