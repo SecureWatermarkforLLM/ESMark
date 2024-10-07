@@ -24,10 +24,3 @@ We designed full embedding and partial embedding scenarios, and the codes are ru
 <div style="text-align: center;">
 <img src="./Figures/fig2.png" alt="1" title="1" width="600" height="500">
 </div>
-
-
-
-# Demos
-
-
-
