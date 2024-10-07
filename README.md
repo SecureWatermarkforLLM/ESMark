@@ -1,5 +1,5 @@
 # An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models.
-![ESMark](./Figures/fig1.png)
+![ESMark|51x51](./Figures/fig1.png)
 
 
 # Datasets
