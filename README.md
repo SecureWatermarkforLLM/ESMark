@@ -1,6 +1,6 @@
 # An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models.
 
-![](http://www.example.com/image.png)
+![1](https://github.com/SecureWatermarkforLLM/ESMark/tree/main/Figures/fig1.pdf)
 
 ### Datasets
 
