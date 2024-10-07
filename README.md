@@ -1,5 +1,7 @@
 # An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models.
-![ESMark|51x51](./Figures/fig1.png)
+<div style="text-align: center;">
+<img src="./Figures/fig1.png" alt="1" title="1" width="800" height="250">
+</div>
 
 
 ## 1. Datasets
