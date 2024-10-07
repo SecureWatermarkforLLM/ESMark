@@ -1,0 +1,6 @@
+{
+    "description": "Template used by Alpaca-LoRA.",
+    "prompt_input": "Divide text into two class: positive and negative.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n",
+    "prompt_no_input": "Divide text into two class: positive and negative.\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+    "response_split": "### Response:"    
+}
