@@ -17,7 +17,9 @@ python 3.10
 
 
 # Multiple Scenarios
-![ESMark](./Figures/fig2.png)
+<div style="text-align: center;">
+<img src="./Figures/2.png" alt="1" title="1" width="200" height="200">
+</div>
 
 
 # Demos
