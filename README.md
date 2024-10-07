@@ -19,7 +19,7 @@ Python 3.10
 
 
 ## 4. Multiple Scenarios
-We designed full embedding and partial embedding scenarios, and the corresponding codes are A and B.
+We designed full embedding and partial embedding scenarios, and the codes are run: `ESMark_full.py` and `ESMark_partial.py`.
 
 <div style="text-align: center;">
 <img src="./Figures/fig2.png" alt="1" title="1" width="600" height="500">
