@@ -18,10 +18,11 @@ Python 3.10
 `pip install -r requirements.txt`
 
 
-# 4. Multiple Scenarios
+## 4. Multiple Scenarios
 <div style="text-align: center;">
 <img src="./Figures/fig2.png" alt="1" title="1" width="600" height="500">
 </div>
+We designed full embedding and partial embedding scenarios, and the corresponding codes are A and B.
 
 
 # Demos
