@@ -1,6 +1,5 @@
-# A Multi-bit watermarking for LLMs
+# An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models.
 
-***An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models.***
 
 
 ### Datasets
@@ -12,6 +11,11 @@ Commonly used datasets in the field of natural language processing and watermark
 
 The models we used are LLama2-7B-chat / ChatGLM3-6B. You can get the LLama2-7B-chat from [here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and ChatGLM3-6B from [here](https://huggingface.co/THUDM/chatglm3-6b).
 
+
+### Conda Environment
+python 3.10
+
+`pip install -r requirements.txt`
 
 
 ### **Demos**
