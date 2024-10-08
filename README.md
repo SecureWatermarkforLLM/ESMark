@@ -35,7 +35,7 @@ To simulate various watermark information, we randomly generated a pseudo-random
 
 
 ## 6. Watermarked texts of ESMark
-In the folder `./watermark_text`, we present the watermarked texts generated using the ESMark scheme. When this work is published, all watermarked texts will be made public.
+In the folder `./watermark_text`, we present the watermarked texts generated using the ESMark scheme. In addition, there are examples of tampered text and watermark extraction when verification fails, please refer to `./watermark_text/Ours_attack` and `./watermark_text/V_fail`. When this work is published, all watermarked texts will be made public.
 
 
 ## 7. Attack & Trace
