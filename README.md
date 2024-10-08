@@ -24,10 +24,29 @@ Python 3.10
 `pip install -r requirements.txt`
 
 
-## 4. Demo of ESMark
+
+## 4. Metrics
+In the folder `./Metrics`, we present the codes for evaluating the performance of watermarked text, where the **BERT** and **LLaMA3-8B** models used can be obtained from [BERT](https://huggingface.co/docs/transformers/model_doc/bert) and [LLaMA3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B).
 
 
-## 5. Multiple Scenarios
+## 5. Watermark information
+To simulate various watermark information, we randomly generated a pseudo-random bit string of 500,000 bits, and embedded them at a random initial starting position when embedding information. The details of the bit string are shown in the folder `./watermark_information`.
+
+
+
+## 6. Watermarked texts of ESMark
+In the folder `./watermark_text`, we present the watermarked texts generated using the ESMark scheme. When this work is published, all watermarked texts will be made public.
+
+
+## 7. Attack & Trace
+In the folder `./Attack_trace`, we present the code for the substitution attack and tracing tampered locations, using the **RoBERTa** model which can be obtained from [here](https://huggingface.co/docs/transformers/model_doc/roberta).
+
+
+## 8. Unforgeability
+In the folder `./Unforgeability`, we present the code for the unforgeability in the private detection, using the **RoBERTa** model which can be obtained from [here](https://huggingface.co/docs/transformers/model_doc/roberta).
+
+
+## 9. Multiple Scenarios
 We designed full embedding and partial embedding scenarios, and the codes are run: `ESMark_full.py` and `ESMark_partial.py`.
 
 <div style="text-align: center;">
