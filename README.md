@@ -1,10 +1,12 @@
 # An Entirely Extracted and Secure Multi-bit Watermark for Large Language Models.
+***Overall process***
 <div style="text-align: center;">
-<img src="./Figures/fig1.png" alt="1" title="1" width="400" height="250">
+<img src="./Figures/fig1_1.png" alt="1" title="1" width="600" height="250">
 </div>
 
+***Generator and Extractor***
 <div style="text-align: center;">
-<img src="./Figures/fig2.png" alt="1" title="1" width="800" height="250">
+<img src="./Figures/fig2_1.png" alt="1" title="1" width="800" height="250">
 </div>
 
 
@@ -26,5 +28,5 @@ Python 3.10
 We designed full embedding and partial embedding scenarios, and the codes are run: `ESMark_full.py` and `ESMark_partial.py`.
 
 <div style="text-align: center;">
-<img src="./Figures/fig3.png" alt="1" title="1" width="600" height="500">
+<img src="./Figures/fig3_1.png" alt="1" title="1" width="600" height="500">
 </div>
