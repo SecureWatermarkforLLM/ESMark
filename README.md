@@ -15,7 +15,7 @@ Commonly used datasets in the field of natural language processing and watermark
 
 
 ## 2. Models
-The models we used are LLama2-7B-chat / ChatGLM3-6B. You can get the LLama2-7B-chat from [here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and ChatGLM3-6B from [here](https://huggingface.co/THUDM/chatglm3-6b).
+The models we used are **LLama2-7B-chat** / **ChatGLM3-6B**. You can get the LLama2-7B-chat from [here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and ChatGLM3-6B from [here](https://huggingface.co/THUDM/chatglm3-6b).
 
 
 ## 3. Conda Environment
